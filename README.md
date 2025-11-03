@@ -57,13 +57,13 @@ npm install stream-http
 
 <h3>멤버구성</h3>
 
-<b>팀장 김동원</b>
+<b>팀장 김**</b>
 
-<b>육경수</b>
+<b>육**</b>
 
-<b>허지훈</b>
+<b>허**</b>
 
-<b>박준호</b>
+<b>박**</b>
 
 <div align='center'>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&text=감사합니다.&fontSize=80" />
